@@ -5,6 +5,7 @@ echo enter your pin
 read -s pin
 echo pin number incorrect
 echo call customer service on the number display
+echo 1888-756-1090
 echo have a good day 
 whoami
 date
