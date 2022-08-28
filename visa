@@ -1,0 +1,11 @@
+#!/bin/bash
+echo pls insert your $card number
+read $card number
+echo enter your pin
+read -s pin
+echo pin number incorrect
+echo call customer service on the number display
+echo have a good day 
+whoami
+date
+
